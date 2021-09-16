@@ -1,4 +1,101 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="BeIN Sports Premium 1 4K" tvg-logo="http://sharkiptvpro.net/tvpic/bein/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIN Sports (G) بين سبورت",BeIN Sports Premium 1 4K
+#EXTINF:-1,### BEIN GROUP ###
+http://xcwsnl28.mrnova.online/live/6000_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-PREMIUM-1-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN PREMIUM 1 MINI 512K
+http://xcwsnl28.mrnova.online/live/60000_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-PREMIUM-2-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN PREMIUM 2 MINI 512K
+http://xcwsnl28.mrnova.online/live/60001_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-PREMIUM-3-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN PREMIUM 3 MINI 512K
+http://xcwsnl28.mrnova.online/live/60002_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 1 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-1-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 1 MINI 512K
+http://xcwsnl28.mrnova.online/live/60003_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 2 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-2-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 2 MINI 512K
+http://xcwsnl28.mrnova.online/live/60004_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 3 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-3-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 3 MINI 512K
+http://xcwsnl28.mrnova.online/live/60005_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 4 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-4-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 4 MINI 512K
+http://xcwsnl28.mrnova.online/live/60006_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 5 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-5-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 5 MINI 512K
+http://xcwsnl28.mrnova.online/live/60007_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 6 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-6-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 6 MINI 512K
+http://xcwsnl28.mrnova.online/live/60008_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 7 MINI 512K" tvg-logo="http://mynetworks.info/api/posters/BEIN-SPORT-7-MINI-512K.png?type=icon" tvg-group="BEIN_SPORT_MINI_512K",BEIN SPORT 7 MINI 512K
+http://xcwsnl28.mrnova.online/live/60009_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN PREMIUM 1 LOW 1M
+http://xcwsnl28.mrnova.online/live/60010_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN PREMIUM 2 LOW 1M
+http://xcwsnl28.mrnova.online/live/60011_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN PREMIUM 3 LOW 1M
+http://xcwsnl28.mrnova.online/live/60012_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 1 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 1 LOW 1M
+http://xcwsnl28.mrnova.online/live/60013_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 2 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 2 LOW 1M
+http://xcwsnl28.mrnova.online/live/60014_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 3 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 3 LOW 1M
+http://xcwsnl28.mrnova.online/live/60015_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 4 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 4 LOW 1M
+http://xcwsnl28.mrnova.online/live/60016_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 5 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 5 LOW 1M
+http://xcwsnl28.mrnova.online/live/60017_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 6 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 6 LOW 1M
+http://xcwsnl28.mrnova.online/live/60018_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 7 LOW 1M" tvg-group="BEIN_SPORT_LOW_1M",BEIN SPORT 7 LOW 1M
+http://xcwsnl28.mrnova.online/live/60019_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN PREMIUM 1 SD 2M
+http://xcwsnl28.mrnova.online/live/60020_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN PREMIUM 2 SD 2M
+http://xcwsnl28.mrnova.online/live/60021_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN PREMIUM 3 SD 2M
+http://xcwsnl28.mrnova.online/live/60022_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 1 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 1 SD 2M
+http://xcwsnl28.mrnova.online/live/60023_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 2 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 2 SD 2M
+http://xcwsnl28.mrnova.online/live/60024_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 3 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 3 SD 2M
+http://xcwsnl28.mrnova.online/live/60025_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 4 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 4 SD 2M
+http://xcwsnl28.mrnova.online/live/60026_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 5 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 5 SD 2M
+http://xcwsnl28.mrnova.online/live/60027_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 6 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 6 SD 2M
+http://xcwsnl28.mrnova.online/live/60028_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 7 SD 2M" tvg-group="BEIN_SPORT_SD_2M",BEIN SPORT 7 SD 2M
+http://xcwsnl28.mrnova.online/live/60029_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN PREMIUM 1 NANO 2M
+http://xcwsnl28.mrnova.online/live/60030_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN PREMIUM 2 NANO 2M
+http://xcwsnl28.mrnova.online/live/60031_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN PREMIUM 3 NANO 2M
+http://xcwsnl28.mrnova.online/live/60032_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 1 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 1 NANO 2M
+http://xcwsnl28.mrnova.online/live/60033_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 2 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 2 NANO 2M
+http://xcwsnl28.mrnova.online/live/60034_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 3 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 3 NANO 2M
+http://xcwsnl28.mrnova.online/live/60035_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 4 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 4 NANO 2M
+http://xcwsnl28.mrnova.online/live/60036_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 5 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 5 NANO 2M
+http://xcwsnl28.mrnova.online/live/60037_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 6 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 6 NANO 2M
+http://xcwsnl28.mrnova.online/live/60038_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 7 NANO 2M" tvg-group="BEIN_SPORT_NANO_2M",BEIN SPORT 7 NANO 2M
+http://xcwsnl28.mrnova.online/live/60039_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 1 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN PREMIUM 1 4K 4M
+http://xcwsnl28.mrnova.online/live/60040_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 2 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN PREMIUM 2 4K 4M
+http://xcwsnl28.mrnova.online/live/60041_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN PREMIUM 3 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN PREMIUM 3 4K 4M
+http://xcwsnl28.mrnova.online/live/60042_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 1 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN SPORT 1 4K 4M
+http://xcwsnl28.mrnova.online/live/60043_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 2 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN SPORT 2 4K 4M
+http://xcwsnl28.mrnova.online/live/60044_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 3 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN SPORT 3 4K 4M
+http://xcwsnl28.mrnova.online/live/60045_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-name="BEIN SPORT 4 4K 4M" tvg-group="BEIN_SPORT_4K_4M",BEIN SPORT 4 4K 4M
+http://xcwsnl28.mrnova.online/live/60046_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1,beIN Sports Premium 01 HD
 http://yassooo.com:8080/benAlaa/829293992/80034
 #EXTINF:-1,beIN Sports Premium 02 HD
