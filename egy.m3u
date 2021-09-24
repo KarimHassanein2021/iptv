@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-name="Mekameleen TV"
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Misr Quran Kareem" tvg-group="EGYPT_CHANNELS",Misr Quran Kareem
-http://xcwsnl28.mrnova.online/live/60169_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60169_.m3u8?
 #EXTINF:-1 tvg-name="Al Oula EG HD" tvg-group="EGYPT_CHANNELS",Al Oula EG HD
-http://xcwsnl28.mrnova.online/live/60170_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60170_.m3u8?
 #EXTINF:-1 tvg-name="Althanya" tvg-group="EGYPT_CHANNELS",Althanya
-http://xcwsnl28.mrnova.online/live/60171_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60171_.m3u8?
 #EXTINF:-1 tvg-name="Al Masriyah HD" tvg-group="EGYPT_CHANNELS",Al Masriyah HD
-http://xcwsnl28.mrnova.online/live/60172_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60172_.m3u8?
 #EXTINF:-1 tvg-name="Maspero Zaman" tvg-group="EGYPT_CHANNELS",Maspero Zaman
-http://xcwsnl28.mrnova.online/live/60173_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60173_.m3u8?
 #EXTINF:-1 tvg-name="DMC HD" tvg-group="EGYPT_CHANNELS",DMC HD
-http://xcwsnl28.mrnova.online/live/60174_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60174_.m3u8?
 #EXTINF:-1 tvg-name="DMC DRAMA" tvg-group="EGYPT_CHANNELS",DMC DRAMA
 http://xcwsnl28.mrnova.online/live/60175_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-name="CBC" tvg-group="EGYPT_CHANNELS",CBC
