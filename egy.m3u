@@ -1,277 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mekameleen TV"
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Misr Quran Kareem" tvg-group="EGYPT_CHANNELS",Misr Quran Kareem
-http://xcwsnl28.mrnova.online/live/60169_.m3u8?
-#EXTINF:-1 tvg-name="Al Oula EG HD" tvg-group="EGYPT_CHANNELS",Al Oula EG HD
-http://xcwsnl28.mrnova.online/live/60170_.m3u8?
-#EXTINF:-1 tvg-name="Althanya" tvg-group="EGYPT_CHANNELS",Althanya
-http://xcwsnl28.mrnova.online/live/60171_.m3u8?
-#EXTINF:-1 tvg-name="Al Masriyah HD" tvg-group="EGYPT_CHANNELS",Al Masriyah HD
-http://xcwsnl28.mrnova.online/live/60172_.m3u8?
-#EXTINF:-1 tvg-name="Maspero Zaman" tvg-group="EGYPT_CHANNELS",Maspero Zaman
-http://xcwsnl28.mrnova.online/live/60173_.m3u8?
-#EXTINF:-1 tvg-name="DMC HD" tvg-group="EGYPT_CHANNELS",DMC HD
-http://xcwsnl28.mrnova.online/live/60174_.m3u8?
-#EXTINF:-1 tvg-name="DMC DRAMA" tvg-group="EGYPT_CHANNELS",DMC DRAMA
-http://xcwsnl28.mrnova.online/live/60175_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="CBC" tvg-group="EGYPT_CHANNELS",CBC
-http://xcwsnl28.mrnova.online/live/60176_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="CBC Extra News HD" tvg-group="EGYPT_CHANNELS",CBC Extra News HD
-http://xcwsnl28.mrnova.online/live/60177_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="CBC Drama" tvg-group="EGYPT_CHANNELS",CBC Drama
-http://xcwsnl28.mrnova.online/live/60178_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="CBC Sofra" tvg-group="EGYPT_CHANNELS",CBC Sofra
-http://xcwsnl28.mrnova.online/live/60179_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ON E HD" tvg-group="EGYPT_CHANNELS",ON E HD
-http://xcwsnl28.mrnova.online/live/60180_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ON Drama" tvg-group="EGYPT_CHANNELS",ON Drama
-http://xcwsnl28.mrnova.online/live/60181_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Al Hayat HD" tvg-group="EGYPT_CHANNELS",AL Al Hayat HD
-http://xcwsnl28.mrnova.online/live/60184_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Hayat Drama" tvg-group="EGYPT_CHANNELS",Al Hayat Drama
-http://xcwsnl28.mrnova.online/live/60185_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Kahera Wal Nas" tvg-group="EGYPT_CHANNELS",Al Kahera Wal Nas
-http://xcwsnl28.mrnova.online/live/60186_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Kahera Wal Nas 2" tvg-group="EGYPT_CHANNELS",Al Kahera Wal Nas 2
-http://xcwsnl28.mrnova.online/live/60187_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Sada El Balad" tvg-group="EGYPT_CHANNELS",Sada El Balad
-http://xcwsnl28.mrnova.online/live/60188_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Sada ALbalad 2" tvg-group="EGYPT_CHANNELS",Sada ALbalad 2
-http://xcwsnl28.mrnova.online/live/60189_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Sada El Balad Drama" tvg-group="EGYPT_CHANNELS",Sada El Balad Drama
-http://xcwsnl28.mrnova.online/live/60190_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Mehwar HD" tvg-group="EGYPT_CHANNELS",Mehwar HD
-http://xcwsnl28.mrnova.online/live/60191_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Dream TV" tvg-group="EGYPT_CHANNELS",Dream TV
-http://xcwsnl28.mrnova.online/live/60192_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Ten" tvg-group="EGYPT_CHANNELS",Ten
-http://xcwsnl28.mrnova.online/live/60193_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="LTC" tvg-group="EGYPT_CHANNELS",LTC
-http://xcwsnl28.mrnova.online/live/60194_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al-Nahar One" tvg-group="EGYPT_CHANNELS",Al-Nahar One
-http://xcwsnl28.mrnova.online/live/60195_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al-Nahar Drama" tvg-group="EGYPT_CHANNELS",Al-Nahar Drama
-http://xcwsnl28.mrnova.online/live/60196_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Shams TV" tvg-group="EGYPT_CHANNELS",AL Shams TV
-http://xcwsnl28.mrnova.online/live/60197_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Hadath Alyoum" tvg-group="EGYPT_CHANNELS",Al Hadath Alyoum
-http://xcwsnl28.mrnova.online/live/60198_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ALSeha Waljamal" tvg-group="EGYPT_CHANNELS",ALSeha Waljamal
-http://xcwsnl28.mrnova.online/live/60199_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Mdeeh" tvg-group="EGYPT_CHANNELS",Mdeeh
-http://xcwsnl28.mrnova.online/live/60200_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile TV" tvg-group="EGYPT_CHANNELS",Nile TV
-http://xcwsnl28.mrnova.online/live/60201_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile Family" tvg-group="EGYPT_CHANNELS",Nile Family
-http://xcwsnl28.mrnova.online/live/60202_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile Life" tvg-group="EGYPT_CHANNELS",Nile Life
-http://xcwsnl28.mrnova.online/live/60203_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile Cinema" tvg-group="EGYPT_CHANNELS",Nile Cinema
-http://xcwsnl28.mrnova.online/live/60204_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile Comedy" tvg-group="EGYPT_CHANNELS",Nile Comedy
-http://xcwsnl28.mrnova.online/live/60205_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile Culture" tvg-group="EGYPT_CHANNELS",Nile Culture
-http://xcwsnl28.mrnova.online/live/60206_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nile Drama" tvg-group="EGYPT_CHANNELS",Nile Drama
-http://xcwsnl28.mrnova.online/live/60207_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Apple Aflam" tvg-group="EGYPT_CHANNELS",Apple Aflam
-http://xcwsnl28.mrnova.online/live/60208_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Apple Alyoum" tvg-group="EGYPT_CHANNELS",Apple Alyoum
-http://xcwsnl28.mrnova.online/live/60209_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Apple Comedy" tvg-group="EGYPT_CHANNELS",Apple Comedy
-http://xcwsnl28.mrnova.online/live/60210_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Apple Cinema" tvg-group="EGYPT_CHANNELS",Apple Cinema
-http://xcwsnl28.mrnova.online/live/60211_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Apple Musalslat" tvg-group="EGYPT_CHANNELS",Apple Musalslat
-http://xcwsnl28.mrnova.online/live/60212_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Apple Hekayat" tvg-group="EGYPT_CHANNELS",Apple Hekayat
-http://xcwsnl28.mrnova.online/live/60213_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Tok Tok Aflam" tvg-group="EGYPT_CHANNELS",Tok Tok Aflam
-http://xcwsnl28.mrnova.online/live/60214_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Tok Tok Cima" tvg-group="EGYPT_CHANNELS",Tok Tok Cima
-http://xcwsnl28.mrnova.online/live/60215_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Star Cinema 1" tvg-group="EGYPT_CHANNELS",Star Cinema 1
-http://xcwsnl28.mrnova.online/live/60218_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Star Cinema 2" tvg-group="EGYPT_CHANNELS",Star Cinema 2
-http://xcwsnl28.mrnova.online/live/60219_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="PNC Drama" tvg-group="EGYPT_CHANNELS",PNC Drama
-http://xcwsnl28.mrnova.online/live/60220_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="PNC Drama 2" tvg-group="EGYPT_CHANNELS",PNC Drama 2
-http://xcwsnl28.mrnova.online/live/60221_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="PNC Film" tvg-group="EGYPT_CHANNELS",PNC Film
-http://xcwsnl28.mrnova.online/live/60222_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="PNC Food" tvg-group="EGYPT_CHANNELS",PNC Food
-http://xcwsnl28.mrnova.online/live/60223_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="PNC Today" tvg-group="EGYPT_CHANNELS",PNC Today
-http://xcwsnl28.mrnova.online/live/60224_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Family Drama" tvg-group="EGYPT_CHANNELS",Family Drama
-http://xcwsnl28.mrnova.online/live/60225_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Family Hikayat" tvg-group="EGYPT_CHANNELS",Family Hikayat
-http://xcwsnl28.mrnova.online/live/60226_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Family Musalslat" tvg-group="EGYPT_CHANNELS",Family Musalslat
-http://xcwsnl28.mrnova.online/live/60227_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Family Cinema" tvg-group="EGYPT_CHANNELS",Family Cinema
-http://xcwsnl28.mrnova.online/live/60228_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Sa3a Al youm" tvg-group="EGYPT_CHANNELS",AL Sa3a Al youm
-http://xcwsnl28.mrnova.online/live/60229_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Sa3aa Comedy" tvg-group="EGYPT_CHANNELS",AL Sa3aa Comedy
-http://xcwsnl28.mrnova.online/live/60230_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Sa3aa Musalsalat" tvg-group="EGYPT_CHANNELS",AL Sa3aa Musalsalat
-http://xcwsnl28.mrnova.online/live/60231_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Sa3aa Drama" tvg-group="EGYPT_CHANNELS",AL Sa3aa Drama
-http://xcwsnl28.mrnova.online/live/60232_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Sa3aa Classic" tvg-group="EGYPT_CHANNELS",AL Sa3aa Classic
-http://xcwsnl28.mrnova.online/live/60233_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Sa3aa Cinema" tvg-group="EGYPT_CHANNELS",AL Sa3aa Cinema
-http://xcwsnl28.mrnova.online/live/60234_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Shasha Musalslat" tvg-group="EGYPT_CHANNELS",AL Shasha Musalslat
-http://xcwsnl28.mrnova.online/live/60235_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Shasha Classic" tvg-group="EGYPT_CHANNELS",AL Shasha Classic
-http://xcwsnl28.mrnova.online/live/60236_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Shasha Cinema" tvg-group="EGYPT_CHANNELS",AL Shasha Cinema
-http://xcwsnl28.mrnova.online/live/60237_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Shasha Food" tvg-group="EGYPT_CHANNELS",AL Shasha Food
-http://xcwsnl28.mrnova.online/live/60238_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="AL Shasha Film" tvg-group="EGYPT_CHANNELS",AL Shasha Film
-http://xcwsnl28.mrnova.online/live/60239_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Zilzal Classic" tvg-group="EGYPT_CHANNELS",Zilzal Classic
-http://xcwsnl28.mrnova.online/live/60240_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Zilzal Al Youm" tvg-group="EGYPT_CHANNELS",Zilzal Al Youm
-http://xcwsnl28.mrnova.online/live/60241_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Zilzal Musalsalat" tvg-group="EGYPT_CHANNELS",Zilzal Musalsalat
-http://xcwsnl28.mrnova.online/live/60242_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Zilzal Cinema" tvg-group="EGYPT_CHANNELS",Zilzal Cinema
-http://xcwsnl28.mrnova.online/live/60243_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="7besha  Action" tvg-group="EGYPT_CHANNELS",7besha  Action
-http://xcwsnl28.mrnova.online/live/60244_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Shababik Drama" tvg-group="EGYPT_CHANNELS",Shababik Drama
-http://xcwsnl28.mrnova.online/live/60245_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="M Cinema" tvg-group="EGYPT_CHANNELS",M Cinema
-http://xcwsnl28.mrnova.online/live/60246_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Film Tube" tvg-group="EGYPT_CHANNELS",Film Tube
-http://xcwsnl28.mrnova.online/live/60247_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Cima Tube" tvg-group="EGYPT_CHANNELS",Cima Tube
-http://xcwsnl28.mrnova.online/live/60248_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Classic Tube" tvg-group="EGYPT_CHANNELS",Classic Tube
-http://xcwsnl28.mrnova.online/live/60249_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Cinema Tube" tvg-group="EGYPT_CHANNELS",Cinema Tube
-http://xcwsnl28.mrnova.online/live/60250_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Drama Tube" tvg-group="EGYPT_CHANNELS",Drama Tube
-http://xcwsnl28.mrnova.online/live/60251_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Mosalsalat Tube" tvg-group="EGYPT_CHANNELS",Mosalsalat Tube
-http://xcwsnl28.mrnova.online/live/60252_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Show Aflam" tvg-group="EGYPT_CHANNELS",Show Aflam
-http://xcwsnl28.mrnova.online/live/60253_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Show Drama" tvg-group="EGYPT_CHANNELS",Show Drama
-http://xcwsnl28.mrnova.online/live/60254_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Show Hakayat" tvg-group="EGYPT_CHANNELS",Show Hakayat
-http://xcwsnl28.mrnova.online/live/60255_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Show Mosalslat" tvg-group="EGYPT_CHANNELS",Show Mosalslat
-http://xcwsnl28.mrnova.online/live/60256_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Show Cinema" tvg-group="EGYPT_CHANNELS",Show Cinema
-http://xcwsnl28.mrnova.online/live/60257_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ORPIT Hekayat" tvg-group="EGYPT_CHANNELS",ORPIT Hekayat
-http://xcwsnl28.mrnova.online/live/60258_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ORPIT AL Youm" tvg-group="EGYPT_CHANNELS",ORPIT AL Youm
-http://xcwsnl28.mrnova.online/live/60259_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ORPIT Movies" tvg-group="EGYPT_CHANNELS",ORPIT Movies
-http://xcwsnl28.mrnova.online/live/60260_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ORPIT Cinema" tvg-group="EGYPT_CHANNELS",ORPIT Cinema
-http://xcwsnl28.mrnova.online/live/60261_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="ORPIT Drama" tvg-group="EGYPT_CHANNELS",ORPIT Drama
-http://xcwsnl28.mrnova.online/live/60262_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Dolly Musalsalat" tvg-group="EGYPT_CHANNELS",Dolly Musalsalat
-http://xcwsnl28.mrnova.online/live/60263_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Dolly Drama" tvg-group="EGYPT_CHANNELS",Dolly Drama
-http://xcwsnl28.mrnova.online/live/60264_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Dolly Cinema" tvg-group="EGYPT_CHANNELS",Dolly Cinema
-http://xcwsnl28.mrnova.online/live/60265_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EgyBest Comedy" tvg-group="EGYPT_CHANNELS",EgyBest Comedy
-http://xcwsnl28.mrnova.online/live/60266_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EgyBest Drama" tvg-group="EGYPT_CHANNELS",EgyBest Drama
-http://xcwsnl28.mrnova.online/live/60267_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EgyBest Today" tvg-group="EGYPT_CHANNELS",EgyBest Today
-http://xcwsnl28.mrnova.online/live/60268_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EgyBest Aflam" tvg-group="EGYPT_CHANNELS",EgyBest Aflam
-http://xcwsnl28.mrnova.online/live/60269_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EgyBest Cima" tvg-group="EGYPT_CHANNELS",EgyBest Cima
-http://xcwsnl28.mrnova.online/live/60270_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EgyBest Cinema" tvg-group="EGYPT_CHANNELS",EgyBest Cinema
-http://xcwsnl28.mrnova.online/live/60271_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Otlob Today" tvg-group="EGYPT_CHANNELS",Otlob Today
-http://xcwsnl28.mrnova.online/live/60272_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Otlob Cinema" tvg-group="EGYPT_CHANNELS",Otlob Cinema
-http://xcwsnl28.mrnova.online/live/60273_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Otlob Aflam" tvg-group="EGYPT_CHANNELS",Otlob Aflam
-http://xcwsnl28.mrnova.online/live/60274_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Otlob Drama" tvg-group="EGYPT_CHANNELS",Otlob Drama
-http://xcwsnl28.mrnova.online/live/60275_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Otlob Zaman" tvg-group="EGYPT_CHANNELS",Otlob Zaman
-http://xcwsnl28.mrnova.online/live/60276_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Otlob Hekayat" tvg-group="EGYPT_CHANNELS",Otlob Hekayat
-http://xcwsnl28.mrnova.online/live/60277_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Yoom Drama" tvg-group="EGYPT_CHANNELS",Al Yoom Drama
-http://xcwsnl28.mrnova.online/live/60278_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Yoom Hekayat" tvg-group="EGYPT_CHANNELS",Al Yoom Hekayat
-http://xcwsnl28.mrnova.online/live/60279_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Ar; AL Yoom Comedy" tvg-group="EGYPT_CHANNELS",Ar; AL Yoom Comedy
-http://xcwsnl28.mrnova.online/live/60280_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Ar; AL Yoom Aflam" tvg-group="EGYPT_CHANNELS",Ar; AL Yoom Aflam
-http://xcwsnl28.mrnova.online/live/60281_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Yoom Cinema" tvg-group="EGYPT_CHANNELS",Al Yoom Cinema
-http://xcwsnl28.mrnova.online/live/60282_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Al Yoom Zaman" tvg-group="EGYPT_CHANNELS",Al Yoom Zaman
-http://xcwsnl28.mrnova.online/live/60283_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="4G Classic" tvg-group="EGYPT_CHANNELS",4G Classic
-http://xcwsnl28.mrnova.online/live/60284_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="4G Cima" tvg-group="EGYPT_CHANNELS",4G Cima
-http://xcwsnl28.mrnova.online/live/60285_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="4G Drama" tvg-group="EGYPT_CHANNELS",4G Drama
-http://xcwsnl28.mrnova.online/live/60286_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Queen Aflam" tvg-group="EGYPT_CHANNELS",Queen Aflam
-http://xcwsnl28.mrnova.online/live/60287_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Queen TV" tvg-group="EGYPT_CHANNELS",Queen TV
-http://xcwsnl28.mrnova.online/live/60288_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Cinema Pro" tvg-group="EGYPT_CHANNELS",Cinema Pro
-http://xcwsnl28.mrnova.online/live/60289_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Cinema Pro Classic" tvg-group="EGYPT_CHANNELS",Cinema Pro Classic
-http://xcwsnl28.mrnova.online/live/60290_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Cima TV" tvg-group="EGYPT_CHANNELS",Cima TV
-http://xcwsnl28.mrnova.online/live/60291_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Oscar TV" tvg-group="EGYPT_CHANNELS",Oscar TV
-http://xcwsnl28.mrnova.online/live/60292_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Movies" tvg-group="EGYPT_CHANNELS",Movies
-http://xcwsnl28.mrnova.online/live/60293_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Box Movies" tvg-group="EGYPT_CHANNELS",Box Movies
-http://xcwsnl28.mrnova.online/live/60294_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Top Movies" tvg-group="EGYPT_CHANNELS",Top Movies
-http://xcwsnl28.mrnova.online/live/60295_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Mix Hollywood" tvg-group="EGYPT_CHANNELS",Mix Hollywood
-http://xcwsnl28.mrnova.online/live/60296_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Mix Bel Araby" tvg-group="EGYPT_CHANNELS",Mix Bel Araby
-http://xcwsnl28.mrnova.online/live/60297_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Belody Aflam" tvg-group="EGYPT_CHANNELS",Belody Aflam
-http://xcwsnl28.mrnova.online/live/60298_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Belody Plus" tvg-group="EGYPT_CHANNELS",Belody Plus
-http://xcwsnl28.mrnova.online/live/60299_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="HollyWood Horror" tvg-group="EGYPT_CHANNELS",HollyWood Horror
-http://xcwsnl28.mrnova.online/live/60300_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Njoom HollyWood" tvg-group="EGYPT_CHANNELS",Njoom HollyWood
-http://xcwsnl28.mrnova.online/live/60301_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Drama Alwan" tvg-group="EGYPT_CHANNELS",Drama Alwan
-http://xcwsnl28.mrnova.online/live/60302_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Hekaya Hendy TV" tvg-group="EGYPT_CHANNELS",Hekaya Hendy TV
-http://xcwsnl28.mrnova.online/live/60303_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Masr Om ELDonia" tvg-group="EGYPT_CHANNELS",Masr Om ELDonia
-http://xcwsnl28.mrnova.online/live/60304_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Sowt AL Arab TV" tvg-group="EGYPT_CHANNELS",Sowt AL Arab TV
-http://xcwsnl28.mrnova.online/live/60305_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Sha3beyat" tvg-group="EGYPT_CHANNELS",Sha3beyat
-http://xcwsnl28.mrnova.online/live/60306_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="EL Moleed" tvg-group="EGYPT_CHANNELS",EL Moleed
-http://xcwsnl28.mrnova.online/live/60307_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Mazzika" tvg-group="EGYPT_CHANNELS",Mazzika
-http://xcwsnl28.mrnova.online/live/60308_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-name="Nogoum FM" tvg-group="EGYPT_CHANNELS",Nogoum FM
-http://xcwsnl28.mrnova.online/live/60309_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1,*****TURK SPOR*****
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://xcwsnl28.mrnova.online/live/60000_.m3u8
+#EXTINF:-1,TR:BEIN SPORTS HABER HD
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://xcwsnl28.mrnova.online/live/60001_.m3u8
+#EXTINF:-1,TR:BEIN SPORTS S1
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1107
+#EXTINF:-1,TR:BEIN SPORTS S2
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1108
+#EXTINF:-1,TR:BEIN SPORTS S3
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1109
+#EXTINF:-1,TR:BEIN SPORTS S4
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1110
+#EXTINF:-1,TR:TIVIBUSPOR S1
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3518
+#EXTINF:-1,TR:TIVIBUSPOR S2
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3519
+#EXTINF:-1,TR:TIVIBUSPOR S3
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3520
+#EXTINF:-1,TR:S SPORT HD
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/17
+#EXTINF:-1,TR:TRT SPOR HD
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/32
+#EXTINF:-1,TR:A SPOR HD
+#EXTVLCOPT:http-user-agent=okhttp/3.10.0
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/30
