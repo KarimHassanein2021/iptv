@@ -49,4 +49,17 @@ http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/161988840/index.m3u8
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/551818447/index.m3u8
 #EXTINF:-1,AR:beIN SPORTS 1 FR
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/14066007/index.m3u8
-
+#EXTINF:-1,test2
+http://viewplayer.ip1v.com:25461/maan/test/2
+#EXTINF:-1,Bein Premium 1 HD
+http://viewplayer.ip1v.com:25461/maan/test/22
+#EXTINF:-1,bein sports pr 2 HD
+http://viewplayer.ip1v.com:25461/maan/test/23
+#EXTINF:-1,bein sports pr 3 HD
+http://viewplayer.ip1v.com:25461/maan/test/24
+#EXTINF:-1,bein sports 1 HD
+http://viewplayer.ip1v.com:25461/maan/test/25
+#EXTINF:-1,bein sports 2 HD
+http://viewplayer.ip1v.com:25461/maan/test/26
+#EXTINF:-1,bein sports 3 HD
+http://viewplayer.ip1v.com:25461/maan/test/27
